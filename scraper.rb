@@ -16,7 +16,7 @@ class Scraper
   attr_accessor :options, :results
 
   def initialize(options = {})
-      @logger = Logger.new("scrapper.log")
+      @logger = Logger.new("scraper.log")
       @options = {
         targetted_url:   options["targetted_url"]   || DEFAULT_OPTIONS[:targetted_url],
         targetted_items: options["targetted_items"] || DEFAULT_OPTIONS[:targetted_items],

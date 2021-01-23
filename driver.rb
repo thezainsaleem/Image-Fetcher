@@ -16,4 +16,5 @@ if file_name
         })
     end
   end
+  puts "Head over to output folder or look at scraper.log"
 end
