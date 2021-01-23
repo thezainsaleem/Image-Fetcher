@@ -13,8 +13,10 @@
 ## In order to run
 
 - git clone git@github.com:thezainsaleem/Image-Fetcher.git
+- cd Image-Fetcher
 - bundle install
 - make sure to run redis-server
+- RUBYOPT="-W0" bundle exec sidekiq -r ./scraper_worker.rb
 - ruby driver.rb [filename] (input_file.txt)
 
 
