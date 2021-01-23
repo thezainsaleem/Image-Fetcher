@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/825748/how-to-pass-command-line-arguments-to-a-rake-task
+https://www.gettyimages.com/detail/news-photo/future-performs-headlining-the-main-stage-at-the-plains-of-news-photo/996345756?adppopup=true
+
+
+https://tjay.dev/howto-working-efficiently-with-large-files-in-ruby/
