@@ -57,3 +57,6 @@ build-iPhoneSimulator/
 
 #Ignore logger
 *.log
+
+#Ignore output folder
+scraped_images/
