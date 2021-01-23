@@ -14,6 +14,7 @@
 
 - git clone git@github.com:thezainsaleem/Image-Fetcher.git
 - bundle install
+- make sure to run redis-server
 - ruby driver.rb [filename] (input_file.txt)
 
 
